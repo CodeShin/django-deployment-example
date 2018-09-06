@@ -27,7 +27,7 @@ SECRET_KEY = 's_k6fk3l!%u%zt+t1698r0n(x9usjbcx23a!)%b895-n%cdu32'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['codeshin.pythonanywhere.com',]
 
 
 # Application definition
